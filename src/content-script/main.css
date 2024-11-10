@@ -1,0 +1,4 @@
+/* Hide LinkedIn sidebar */
+html[global_enable="true"] aside.scaffold-layout__aside {
+    display: none !important;
+}
