@@ -13,4 +13,6 @@ Privacy-focused: does not collect or share user data.
 
 ## Links
 Source: https://github.com/abj908/remove-linkedin-sidebar
+
+
 Contact: https://albertjoseph.dev/
